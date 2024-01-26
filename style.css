@@ -29,3 +29,9 @@ button{
     color: white;
     background-color: gray;
 }
+@media(max-width: 600px) {
+    #inp{
+        width: auto;
+        margin:auto;
+    }
+}
